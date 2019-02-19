@@ -1,2 +1,2 @@
 # Portfolio
-This whole repository is full of my previous codes.
+This whole repository is full of my previously completed codes.
